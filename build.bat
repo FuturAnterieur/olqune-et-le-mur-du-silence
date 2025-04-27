@@ -1,1 +1,1 @@
-pdflatex olqune.tex -output-directory build
+pdflatex main.tex -output-directory build
